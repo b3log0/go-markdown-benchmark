@@ -1,2 +1,3 @@
-# markdown-benchmark
-Markdown engine benchmark.
+# go-markdown-benchmark
+
+Golang markdown engine benchmark.
